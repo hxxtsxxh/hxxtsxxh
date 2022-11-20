@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hxxtsxxh
+- 👋 Hi, I’m Heet Shah
 - 👀 I’m interested in **Python**
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything at the moment
