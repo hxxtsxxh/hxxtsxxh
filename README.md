@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Heet Shah
-- 👀 I’m interested in **Python**
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning using Tensorflow.
+- 👀 I’m interested in **Machine Learning, Web Development, React JS, and Android App Development**
+- 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on anything at the moment
 - 📫 How to reach me: 
   -  **email- heet1356@gmail.com**
