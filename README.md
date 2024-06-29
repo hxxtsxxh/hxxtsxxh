@@ -1,6 +1,4 @@
-# 👋 Hello! I'm [Your Name]
-
-![Profile Banner](https://example.com/banner.png)
+# 👋 Hello! I'm Heet Shah!
 
 Welcome to my GitHub profile! I'm passionate about [your interests], and I love working on projects that involve [technologies or domains you're interested in].
 
