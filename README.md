@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Heet Shah! ![Resume](https://img.shields.io/badge/Resume-Download-brightgreen) ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)
+# 👋 Hello! I'm Heet Shah! [![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1NY4dh1-By3P1nA_k13UUDRjqYnjZPYPq/view?usp=sharing) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/heettshahh)
 
 Welcome to my profile! I'm passionate about front-end development, digital security, and artificial intelligence.
 
