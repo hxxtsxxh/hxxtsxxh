@@ -6,7 +6,7 @@ Welcome to my profile! I'm passionate about front-end development, digital secur
 
 - 👯 I’m looking to collaborate on: new endeavors, startups, and innovative projects
 - 💬 Ask me about: my Tedx talk on the evolution of AI
-- 📫 How to reach me: [mailto:hshah339@gatech.edu]
+- 📫 How to reach me: [hshah339@gatech.edu](mailto:hshah339@gatech.edu)
 
 ---
 
