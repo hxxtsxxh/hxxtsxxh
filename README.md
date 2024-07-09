@@ -1,8 +1,8 @@
-# 👋 Hello! I'm Heet Shah! [![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1NY4dh1-By3P1nA_k13UUDRjqYnjZPYPq/view?usp=sharing) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/heettshahh)
+# 👋 Hello! I'm Heet Shah! [![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1E9BOHm4_jQhvKZGl-aQMoxHKainlcLMS/view?usp=sharing)
 
 Welcome to my profile! I'm passionate about front-end development, digital security, and artificial intelligence.
 
-# 💫 About Me:
+# 👨🏽‍🎓 About Me:
 👯 I’m looking to collaborate on: new endeavors, startups, and innovative projects<br>💬 Ask me about: my Tedx talk on the evolution of AI<br>
 
 
@@ -19,10 +19,9 @@ Welcome to my profile! I'm passionate about front-end development, digital secur
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hxxtsxxh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Wise Words
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project.
