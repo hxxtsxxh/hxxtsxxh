@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Heet Shah! [![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1hcXFmiCL_UAawaoCUkWQt10pDk7v76VF/view?usp=sharing)
+# 👋 Hello! I'm Heet Shah! [![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1uh3vkO-d1xWuRKeSTP2FQHQLkquAD7Ou/view?usp=sharing)
 
 Welcome to my profile! I'm passionate about front-end development, digital security, and artificial intelligence.
 
