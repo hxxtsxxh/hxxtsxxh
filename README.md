@@ -58,12 +58,12 @@ A shipped SaaS for students. Upload a syllabus as PDF, DOCX, or image; Gemini ex
 <tr>
 <td width="50%" valign="top">
 
-#### [CodeWall](https://github.com/hxxtsxxh/CodeWall)
-Chrome extension that turns distracting sites into a coding gate: solve an algorithm problem, run against real test cases in Python, JavaScript, C++, or Java, to earn browsing time.
+#### [CodeWall](https://chromewebstore.google.com/detail/codewall/omimfnpfchjojpbkdjfojbjgjhaigmbo)
+Published Chrome extension that turns distracting sites into a coding gate: solve an algorithm problem, run against real test cases in Python, JavaScript, C++, or Java, to earn browsing time.
 
 `JavaScript` `Chrome MV3` `Cloud Functions` `Piston` `Gemini`
 
-**[Source →](https://github.com/hxxtsxxh/CodeWall)**
+**[Chrome Web Store →](https://chromewebstore.google.com/detail/codewall/omimfnpfchjojpbkdjfojbjgjhaigmbo)** · [Source](https://github.com/hxxtsxxh/CodeWall)
 
 </td>
 <td width="50%" valign="top">
