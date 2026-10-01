@@ -1,35 +1,110 @@
-# 👋 Hello! I'm Heet Shah! [![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1uh3vkO-d1xWuRKeSTP2FQHQLkquAD7Ou/view?usp=sharing)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Heet Shah — Software Developer at IBM Silicon Valley Lab. Agents, evals, and intelligent systems." src="assets/header-light.svg" width="100%">
+</picture>
 
-Welcome to my profile! I'm passionate about front-end development, digital security, and artificial intelligence.
+I build software that reasons and acts: tool-calling agents, the evaluation harnesses that check their work against ground truth, and the full-stack products around them. Right now that means **agentic AI for IBM Z operations at IBM Silicon Valley Lab**. I studied CS at Georgia Tech with a focus on cybersecurity and AI, which left me with a bias I bring to every system: assume it will be wrong sometimes, and build the checks that catch it.
 
-# 👨🏽‍🎓 About Me:
-👯 I’m looking to collaborate on: new endeavors, startups, and innovative projects<br>💬 Ask me about: my Tedx talk on the evolution of AI<br>
+**[heettshahh.com](https://heettshahh.com)** &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/heettshahh) &nbsp;·&nbsp; [Résumé](https://heettshahh.com/resume.pdf)
 
+## Focus
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heettshahh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/flamingheetcheetos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20963000) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/heettshahh) 
+| Area | In practice |
+| :--- | :--- |
+| **Agentic systems** | Tool-calling agents and cross-system orchestration: one natural-language request, many tools, actions you can audit. |
+| **Evaluation & reliability** | Ground-truth graders and benchmarks that gate releases, instead of spot checks and keyword matching. |
+| **Applied ML** | Taking raw public data all the way to a trained model behind a product people actually use. |
+| **Developer tooling** | Editors, collaboration, and workflow tools that remove friction for engineers. |
+| **Security & privacy** | Threat-aware design and privacy-preserving AI; earlier research on deepfake countermeasures. |
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hxxtsxxh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hxxtsxxh&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hxxtsxxh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## Selected work
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hxxtsxxh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### [Lumos AI](https://github.com/hxxtsxxh/lumos.ai) &nbsp;·&nbsp; 🥈 2nd Place Overall, Hacklytics 2026
 
-### ✍️ Wise Words
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Real-time safety intelligence for any U.S. address. Lumos scores how safe a place is *right now, for you*, by blending a 25-feature XGBoost model with live context, then uses Gemini to explain the score in plain language.
 
----
+- Crime baselines from FBI NIBRS profiles of **12,000+ law-enforcement agencies**, fused with live incidents, weather, local events, and time-of-day risk curves
+- An AI voice operator that can **place a 911 call on your behalf** when you can't speak (VAPI · ElevenLabs · Deepgram)
+- Segment-by-segment route scoring and live GPS walk tracking on Mapbox GL
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project.
+`React` `TypeScript` `FastAPI` `XGBoost` `Gemini` `Firebase` `Mapbox GL`
 
-<!---
+**[Live demo →](https://lumos-safety.netlify.app)** &nbsp;·&nbsp; [Source](https://github.com/hxxtsxxh/lumos.ai) &nbsp;·&nbsp; Built with a team of four
 
-hxxtsxxh/hxxtsxxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-You can click the Preview link to take a look at your changes.
+#### [SyncSpec](https://syncspec.netlify.app)
+Collaborative API schema designer. Concurrent edits merge conflict-free through **Yjs CRDTs** synced over WebSockets, with live presence and on-the-fly TypeScript type generation in Monaco.
 
---->
+`React` `TypeScript` `Yjs` `WebSockets` `Monaco`
+
+**[Live →](https://syncspec.netlify.app)**
+
+</td>
+<td width="50%" valign="top">
+
+#### [Syllabi.dev](https://syllabi.dev)
+A shipped SaaS for students. Upload a syllabus as PDF, DOCX, or image; Gemini extracts every assignment, exam, and deadline into one dashboard with calendar sync and AI study plans.
+
+`React` `TypeScript` `Firebase` `Gemini` `Stripe`
+
+**[syllabi.dev →](https://syllabi.dev)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [CodeWall](https://github.com/hxxtsxxh/CodeWall)
+Chrome extension that turns distracting sites into a coding gate: solve an algorithm problem, run against real test cases in Python, JavaScript, C++, or Java, to earn browsing time.
+
+`JavaScript` `Chrome MV3` `Cloud Functions` `Piston` `Gemini`
+
+**[Source →](https://github.com/hxxtsxxh/CodeWall)**
+
+</td>
+<td width="50%" valign="top">
+
+#### [MedX](https://github.com/hxxtsxxh/MedX)
+🥈 *2nd in Healthcare, Hacklytics 2025*
+
+Medication safety assistant. Scan a drug label, cross-check interactions against OpenFDA, and get Gemini-explained risk assessments and shareable PDF health reports.
+
+`React Native` `Expo` `TypeScript` `Firebase` `OpenFDA`
+
+**[Source →](https://github.com/hxxtsxxh/MedX)** · [Devpost](https://devpost.com/software/medx-d7tle6)
+
+</td>
+</tr>
+</table>
+
+**Also:** [EcoShip](https://github.com/hxxtsxxh/EcoShip), carbon-aware shipping estimates across 15+ U.S. corridors (UPS Hackathon 2025) · [Trace AI](https://devpost.com/software/trace-ai), TensorFlow pose estimation for choreography attribution
+
+## Toolkit
+
+| Area | Tools |
+| :--- | :--- |
+| **Languages** | Python · TypeScript · JavaScript · Java · C · C# / .NET · SQL · Bash |
+| **AI / ML** | LLM agents & tool calling · MCP · RAG · LangChain · LLM evaluation · Gemini API · XGBoost · TensorFlow · scikit-learn · pandas |
+| **Product** | React · React Native / Expo · Vue · Tailwind CSS |
+| **Backend & cloud** | FastAPI · Node.js · .NET Core · Firebase · GCP (BigQuery, Cloud Run) · Docker · Linux |
+| **Workflow** | Git · CI/CD · Azure DevOps · Chrome Extensions (MV3) |
+
+## Path
+
+| When | Where | What |
+| :--- | :--- | :--- |
+| **2026 →** | **IBM** · Silicon Valley Lab | Software Developer building agentic AI for IBM Z operations |
+| 2025 | **UPS** | SWE intern: an end-to-end GCP analytics product for monitoring global scanning systems |
+| 2023 – 24 | **iVue** | SWE intern: control platform for a worldwide drone network (Vue + Python) |
+| 2023 | **Solutionz Security** | Cybersecurity intern: deepfake countermeasures research that fed into a TEDx talk |
+| 2023 – 26 | **Georgia Tech** | B.S. Computer Science, with threads in Cybersecurity & Privacy and Intelligence |
+
+## Connect
+
+If you're working on agents, evaluation, or security-minded AI and want to compare notes, or build something together, I'd like to hear from you.
+
+**[heettshahh.com](https://heettshahh.com)** &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/heettshahh) &nbsp;·&nbsp; [Résumé](https://heettshahh.com/resume.pdf)
