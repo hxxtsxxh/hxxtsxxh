@@ -20,7 +20,7 @@ I build software that reasons and acts: tool-calling agents, the evaluation harn
 
 ## Selected work
 
-### [Lumos AI](https://github.com/hxxtsxxh/lumos.ai) &nbsp;·&nbsp; 🥈 2nd Place Overall, Hacklytics 2026
+### [Lumos AI](https://lumos-safety.netlify.app/) &nbsp;·&nbsp; 🥈 2nd Place Overall, Hacklytics 2026
 
 Real-time safety intelligence for any U.S. address. Lumos scores how safe a place is *right now, for you*, by blending a 25-feature XGBoost model with live context, then uses Gemini to explain the score in plain language.
 
@@ -30,7 +30,7 @@ Real-time safety intelligence for any U.S. address. Lumos scores how safe a plac
 
 `React` `TypeScript` `FastAPI` `XGBoost` `Gemini` `Firebase` `Mapbox GL`
 
-**[Live demo →](https://lumos-safety.netlify.app)** &nbsp;·&nbsp; [Source](https://github.com/hxxtsxxh/lumos.ai) &nbsp;·&nbsp; Built with a team of four
+**[Live demo →](https://lumos-safety.netlify.app/)** &nbsp;·&nbsp; [Source](https://github.com/hxxtsxxh/lumos.ai) &nbsp;·&nbsp; Built with a team of four
 
 <table>
 <tr>
